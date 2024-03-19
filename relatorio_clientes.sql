@@ -1,9 +1,9 @@
 -- MariaDB dump 10.19  Distrib 10.11.6-MariaDB, for debian-linux-gnu (x86_64)
 --
--- Host: localhost        Database: relatorio_clientes_2
+-- Host: localhost        Database: relatorio_clientes
 -- ------------------------------------------------------
 -- Server version	8.3.0
-USE relatorio_clientes_2;
+USE relatorio_clientes;
 
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
